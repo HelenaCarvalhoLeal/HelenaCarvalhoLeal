@@ -1,4 +1,4 @@
-Hi, I’m @HelenaCarvalhoLeal. I’m looking to collaborate on software development projects (team/individual).
+Hi, I’m @HelenaCarvalhoLeal. I'm getting computer literacy and looking to collaborate on software development projects (team/individual).
 
 CURRENTLY LEARNING
 Python
