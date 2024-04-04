@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&color=FFC0CBFF&width=1000&lines=Olá,+meu+nome+é+Helena+Carvalho+Leal;Tenho+24+anos+;Sou+brasileira;Graduanda+do+2°+período+de+Ciências+da+Computação;Procuro+equipes+para+desenvolvimento+de+software;Bem+Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&color=FFC0CBFF&width=1000&lines=Olá,+meu+nome+é+Helena+Carvalho+Leal;Tenho+24+anos+;Sou+brasileira;Graduanda+do+3°+período+de+Ciências+da+Computação;Procuro+equipes+para+desenvolvimento+de+software;Bem+Vindo!)](https://git.io/typing-svg)
 
 <div>
 	<a href="https://github.com/HelenaCarvalhoLeal">
