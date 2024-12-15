@@ -18,6 +18,7 @@
 ![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![UML](https://img.shields.io/badge/UML-005571?style=for-the-badge&logo=uml&logoColor=white)
 
 <div>
 	<a href="https://github.com/HelenaCarvalhoLeal">
