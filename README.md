@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&color=FFC0CBFF&width=1000&lines=Olá,+meu+nome+é+Helena+Carvalho+Leal;Tenho+25+anos+;Sou+brasileira;Graduanda+do+5°+período+de+Ciências+da+Computação;Procuro+equipes+para+desenvolvimento+de+software;Bem+Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&color=FFC0CBFF&width=1000&lines=Olá,+meu+nome+é+Helena+Carvalho+Leal;Tenho+25+anos+;Sou+brasileira;Graduanda+do+6°+período+de+Ciências+da+Computação;Procuro+equipes+para+desenvolvimento+de+software;Bem+Vindo!)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
