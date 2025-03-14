@@ -19,6 +19,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-005571?style=for-the-badge&logo=uml&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 <div>
 	<a href="https://github.com/HelenaCarvalhoLeal">
